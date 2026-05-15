@@ -46,8 +46,8 @@ The project combines:
 
 ## 📈 Key Insights
 - Business generated 13M in sales revenue
-- Total profit reached 2.31M
-- Revenue leakage exceeded 244K
+- Total profit reached 2 M
+- Revenue leakage exceeded 245K
 - Average discount rate is 28%
 - Profit margin maintained at 18%
 
@@ -74,4 +74,7 @@ This project helps businesses:
 ---
 
 ## 📸 Dashboard Preview
-<img width="1459" height="796" alt="image" src="https://github.com/user-attachments/assets/b6312138-ee1a-4f8f-bbe1-6ff67368a1bd" />
+<img width="1442" height="808" alt="image" src="https://github.com/user-attachments/assets/4623e44b-9f1f-451e-b6cb-150cefac0594" />
+
+
+
