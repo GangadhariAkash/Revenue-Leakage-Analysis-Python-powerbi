@@ -1,110 +1,77 @@
-Hidden Revenue Leakage Dashboard – Retail Sales Profitability Analysisunting and low-margin products.
-🧠 Project Overview
+# 💰 Revenue Leakage & Profitability Analysis
 
-This project analyzes retail sales data to uncover hidden revenue leakage caused by excessive discounting and low-margin products.
-Instead of focusing only on sales volume, the analysis emphasizes profitability, discount impact, and product performance to support data-driven business decisions.
+## 📌 Project Overview
+This project analyzes retail transaction data to identify hidden revenue leakage caused by excessive discounts and low-profit transactions.
 
-The dashboard helps stakeholders identify:
+The project combines:
+- Python for data cleaning, feature engineering, and analysis
+- Power BI for interactive dashboard visualization
 
-High-selling but low-profit products
+---
 
-Regions and categories contributing to profit erosion
+## 🚀 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Jupyter Notebook
 
-The relationship between discounts and profitability
+---
 
-🎯 Business Problem
+## 📊 Key Features
+- Revenue leakage detection
+- Profitability analysis
+- Risk classification
+- Discount impact analysis
+- Regional sales analysis
+- Interactive Power BI dashboard
 
-Many retail businesses experience strong sales growth but declining profits due to:
+---
 
-Aggressive discount strategies
+## 📂 Dataset Features
+- Sales
+- Profit
+- Discount
+- Revenue Leakage
+- Profit Margin
+- Revenue Efficiency
+- Category
+- Region
+- Risk Flag
+- Profitability Segment
 
-Inefficient product pricing
+---
 
-Poor visibility into profit margins
+## 📈 Key Insights
+- Business generated 13M in sales revenue
+- Total profit reached 2.31M
+- Revenue leakage exceeded 244K
+- Average discount rate is 28%
+- Profit margin maintained at 18%
 
-This project addresses the question:
+---
 
-Are high sales truly translating into healthy profits?
+## 📊 Power BI Dashboard
+The dashboard includes:
+- KPI Cards
+- Revenue Leakage Analysis
+- Regional Sales Analysis
+- Monthly Trends
+- Profitability Segments
+- Discount Impact Analysis
 
-🗂 Dataset Details
+---
 
-The dataset contains retail transaction-level data with the following fields:
+## 🎯 Business Outcome
+This project helps businesses:
+- reduce revenue leakage
+- improve pricing strategy
+- identify high-risk transactions
+- optimize profitability
 
-Order_ID
+---
 
-Order_Date
-
-Product_Name
-
-Category
-
-Region
-
-Sales
-
-Profit
-
-Discount
-
-Quantity
-
-📈 Key Metrics (KPIs)
-
-Total Sales
-
-Total Profit
-
-Profit Margin (%)
-
-Average Discount
-
-📊 Dashboard Insights
-🔹 Sales vs Profit Analysis
-
-Identified products generating high revenue but low profit, indicating potential revenue leakage.
-
-Scatter plot highlights profit inefficiencies across categories.
-
-🔹 Discount Impact on Profit
-
-Higher discounts do not always lead to higher profits.
-
-Certain discount ranges negatively affect overall profitability.
-
-🔹 Regional Performance
-
-Sales and profit contribution varies significantly by region.
-
-Helps prioritize regions needing pricing or cost optimization.
-
-🔹 Category-Level Comparison
-
-Technology, Furniture, and Office Supplies categories compared on sales and profit efficiency.
-
-🛠 Tools & Technologies
-
-Power BI – Data modeling & dashboard creation
-
-DAX – Calculated measures and KPIs
-
-Excel / CSV – Data preparation
-
-💡 Key Takeaways
-
-High sales do not guarantee high profitability
-
-Discount strategies must be carefully optimized
-
-Product-level and category-level analysis is critical for sustainable revenue growth
-
-📌 Future Enhancements
-
-Add customer segmentation analysis
-
-Analyze cost-to-serve per product
-
-Introduce time-series trend analysis
-
-Build predictive models for profit forecasting
-
-<img width="1429" height="796" alt="image" src="https://github.com/user-attachments/assets/58ec9cee-e7f7-4131-86f1-8d5f0662d413" />
+## 📸 Dashboard Preview
+<img width="1459" height="796" alt="image" src="https://github.com/user-attachments/assets/b6312138-ee1a-4f8f-bbe1-6ff67368a1bd" />
